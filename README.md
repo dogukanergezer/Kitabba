@@ -4,4 +4,5 @@
 - **Node.js Express** and **Mongodb** are used on the server side.
 
 ### To make it run;
-Run the `npm start` command in the root of the project
+All you have to do is run the `npm start` command in the root of the project.
+
